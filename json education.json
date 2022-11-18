@@ -1,0 +1,302 @@
+[
+  {
+    "state": "Massachusetts",
+    "publicSchoolScore": "73.1400",
+    "qualityRank": 1,
+    "safetyRank": 1
+  },
+  {
+    "state": "Connecticut",
+    "publicSchoolScore": "67.5000",
+    "qualityRank": 2,
+    "safetyRank": 9
+  },
+  {
+    "state": "New Jersey",
+    "publicSchoolScore": "64.3600",
+    "qualityRank": 3,
+    "safetyRank": 19
+  },
+  {
+    "state": "Virginia",
+    "publicSchoolScore": "61.7100",
+    "qualityRank": 5,
+    "safetyRank": 2
+  },
+  {
+    "state": "New Hampshire",
+    "publicSchoolScore": "61.5700",
+    "qualityRank": 4,
+    "safetyRank": 12
+  },
+  {
+    "state": "Maryland",
+    "publicSchoolScore": "60.2400",
+    "qualityRank": 8,
+    "safetyRank": 4
+  },
+  {
+    "state": "Delaware",
+    "publicSchoolScore": "58.0700",
+    "qualityRank": 16,
+    "safetyRank": 3
+  },
+  {
+    "state": "Nebraska",
+    "publicSchoolScore": "57.8100",
+    "qualityRank": 12,
+    "safetyRank": 8
+  },
+  {
+    "state": "Wisconsin",
+    "publicSchoolScore": "57.4800",
+    "qualityRank": 6,
+    "safetyRank": 28
+  },
+  {
+    "state": "Vermont",
+    "publicSchoolScore": "57.4300",
+    "qualityRank": 15,
+    "safetyRank": 6
+  },
+  {
+    "state": "Rhode Island",
+    "publicSchoolScore": "57.2100",
+    "qualityRank": 13,
+    "safetyRank": 10
+  },
+  {
+    "state": "Minnesota",
+    "publicSchoolScore": 57,
+    "qualityRank": 7,
+    "safetyRank": 36
+  },
+  {
+    "state": "Maine",
+    "publicSchoolScore": "56.8700",
+    "qualityRank": 18,
+    "safetyRank": 7
+  },
+  {
+    "state": "New York",
+    "publicSchoolScore": "56.4200",
+    "qualityRank": 11,
+    "safetyRank": 16
+  },
+  {
+    "state": "Illinois",
+    "publicSchoolScore": "56.2700",
+    "qualityRank": 9,
+    "safetyRank": 24
+  },
+  {
+    "state": "Utah",
+    "publicSchoolScore": "55.8700",
+    "qualityRank": 17,
+    "safetyRank": 15
+  },
+  {
+    "state": "North Dakota",
+    "publicSchoolScore": "55.3000",
+    "qualityRank": 10,
+    "safetyRank": 31
+  },
+  {
+    "state": "Florida",
+    "publicSchoolScore": "55.2200",
+    "qualityRank": 14,
+    "safetyRank": 20
+  },
+  {
+    "state": "Kentucky",
+    "publicSchoolScore": "54.1800",
+    "qualityRank": 23,
+    "safetyRank": 14
+  },
+  {
+    "state": "Iowa",
+    "publicSchoolScore": "53.7100",
+    "qualityRank": 22,
+    "safetyRank": 18
+  },
+  {
+    "state": "Colorado",
+    "publicSchoolScore": "53.7000",
+    "qualityRank": 20,
+    "safetyRank": 23
+  },
+  {
+    "state": "Indiana",
+    "publicSchoolScore": "53.3100",
+    "qualityRank": 25,
+    "safetyRank": 11
+  },
+  {
+    "state": "Wyoming",
+    "publicSchoolScore": "53.0700",
+    "qualityRank": 24,
+    "safetyRank": 22
+  },
+  {
+    "state": "Pennsylvania",
+    "publicSchoolScore": "52.8600",
+    "qualityRank": 19,
+    "safetyRank": 33
+  },
+  {
+    "state": "South Dakota",
+    "publicSchoolScore": "52.4300",
+    "qualityRank": 21,
+    "safetyRank": 35
+  },
+  {
+    "state": "Washington",
+    "publicSchoolScore": "51.3100",
+    "qualityRank": 27,
+    "safetyRank": 5
+  },
+  {
+    "state": "Montana",
+    "publicSchoolScore": "50.3300",
+    "qualityRank": 26,
+    "safetyRank": 37
+  },
+  {
+    "state": "Texas",
+    "publicSchoolScore": "49.8600",
+    "qualityRank": 31,
+    "safetyRank": 13
+  },
+  {
+    "state": "Kansas",
+    "publicSchoolScore": "47.4700",
+    "qualityRank": 28,
+    "safetyRank": 41
+  },
+  {
+    "state": "Ohio",
+    "publicSchoolScore": "47.4300",
+    "qualityRank": 33,
+    "safetyRank": 26
+  },
+  {
+    "state": "Tennessee",
+    "publicSchoolScore": "46.9300",
+    "qualityRank": 30,
+    "safetyRank": 44
+  },
+  {
+    "state": "Georgia",
+    "publicSchoolScore": "46.2200",
+    "qualityRank": 37,
+    "safetyRank": 27
+  },
+  {
+    "state": "North Carolina",
+    "publicSchoolScore": "46.0600",
+    "qualityRank": 38,
+    "safetyRank": 29
+  },
+  {
+    "state": "Michigan",
+    "publicSchoolScore": "45.9200",
+    "qualityRank": 32,
+    "safetyRank": 43
+  },
+  {
+    "state": "Missouri",
+    "publicSchoolScore": "45.8800",
+    "qualityRank": 29,
+    "safetyRank": 50
+  },
+  {
+    "state": "Idaho",
+    "publicSchoolScore": "45.2000",
+    "qualityRank": 35,
+    "safetyRank": 42
+  },
+  {
+    "state": "Arkansas",
+    "publicSchoolScore": "43.8400",
+    "qualityRank": 40,
+    "safetyRank": 40
+  },
+  {
+    "state": "Nevada",
+    "publicSchoolScore": "43.6400",
+    "qualityRank": 39,
+    "safetyRank": 46
+  },
+  {
+    "state": "Hawaii",
+    "publicSchoolScore": "43.0900",
+    "qualityRank": 41,
+    "safetyRank": 32
+  },
+  {
+    "state": "California",
+    "publicSchoolScore": "42.4200",
+    "qualityRank": 36,
+    "safetyRank": 51
+  },
+  {
+    "state": "Oregon",
+    "publicSchoolScore": "40.9600",
+    "qualityRank": 42,
+    "safetyRank": 39
+  },
+  {
+    "state": "South Carolina",
+    "publicSchoolScore": "38.9400",
+    "qualityRank": 43,
+    "safetyRank": 48
+  },
+  {
+    "state": "West Virginia",
+    "publicSchoolScore": "38.4700",
+    "qualityRank": 45,
+    "safetyRank": 17
+  },
+  {
+    "state": "Mississippi",
+    "publicSchoolScore": "38.2200",
+    "qualityRank": 44,
+    "safetyRank": 38
+  },
+  {
+    "state": "Oklahoma",
+    "publicSchoolScore": "37.1500",
+    "qualityRank": 46,
+    "safetyRank": 25
+  },
+  {
+    "state": "Alabama",
+    "publicSchoolScore": "37.0200",
+    "qualityRank": 48,
+    "safetyRank": 21
+  },
+  {
+    "state": "Alaska",
+    "publicSchoolScore": "36.4300",
+    "qualityRank": 47,
+    "safetyRank": 30
+  },
+  {
+    "state": "Arizona",
+    "publicSchoolScore": "35.1300",
+    "qualityRank": 49,
+    "safetyRank": 34
+  },
+  {
+    "state": "Louisiana",
+    "publicSchoolScore": "33.3700",
+    "qualityRank": 50,
+    "safetyRank": 45
+  },
+  {
+    "state": "New Mexico",
+    "publicSchoolScore": "25.2600",
+    "qualityRank": 51,
+    "safetyRank": 49
+  }
+]
