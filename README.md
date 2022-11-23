@@ -38,7 +38,7 @@
 
 ### Jupyter Notebook
 
-####Pictures of our results
+###Pictures of our results
 
 ## Results
 
