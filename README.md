@@ -34,7 +34,20 @@
 
 ### Analysis of Outcomes Based on Questions
 
-* 
+* Do Average Home Value, Average Income, Average Household Education Level, and Public School Rankings by state have an impact on each other?
+    * Median home value vs income(Madeline)
+        * Observation: The T Test and graph show a correlation between Median home value and Average income. As The Median Home Value increases, the Average Income increases.
+    * Median Home value vs education level(Shapoor)
+    * Education levels vs income levels (Christina)
+        * Income by Average Percentage of Graduates 
+        The graph average income based on the percentage of graduates among the states. The lower percentage of people with graduate degrees in specific states represent a lower income level. The higher percentage of people with graduate degree represent a higher income percentage.
+    * Zillow price vs house price(Molly)
+        * Observation:  The Zillow home values are skewed and priced 200K more than the Median Home Value . 
+    * Highest home value vs lowest (Molly)
+        * Observation: Even though the homes in Hawaii cost more, their school quality ranking is not as good as West Virginia, where the homes are valued the lowest.
+    * School safety vs school score and school rank (Madeline)
+        * Observation: The school saftey ranking we can see have a correlation on the school quality and school score. As the school safety ranking increases, the school quality score increases, and the school score decreases overall. However, the T Test revealed that the school safety ranking has an impact on the school score but not the school quality ranking.
+    * Median Home value vs public school score(Shapoor)
 
 ### Challenges and Difficulties Encountered
 
