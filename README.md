@@ -28,18 +28,47 @@
 
 ### Purpose
    
-* We are utilizing Python-API and Jupyter Notebook to analyze data in order to get more detailed information about what the pulled data sources show.
+* We are utilizing everything we have learned about Python and Pandas on Jupyter Notebook to analyze data in order to get more detailed information about what the pulled data sources show.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Questions
 
+* 
+
 ### Challenges and Difficulties Encountered
 
-### Jupyter Notebook Pictures
+* 
 
 ## Results
 
 * What are two conclusions you can draw about the data?
 
 * What questions do we still have?
+
+### Jupyter Notebook Pictures
+![1](Images/1.png)
+![2](Images/2.png)
+![3](Images/3.png)
+![4](Images/4.png)
+![5](Images/5.png)
+![6](Images/6.png)
+![7](Images/7.png)
+![8](Images/8.png)
+![9](Images/9.png)
+![10](Images/10.png)
+![11](Images/11.png)
+![12](Images/12.png)
+![13](Images/13.png)
+![14](Images/14.png)
+![15](Images/15.png)
+![16](Images/16.png)
+![17](Images/17.png)
+![18](Images/18.png)
+![19](Images/19.png)
+![20](Images/20.png)
+![21](Images/21.png)
+![22](Images/22.png)
+![23](Images/23.png)
+![24](Images/24.png)
+
